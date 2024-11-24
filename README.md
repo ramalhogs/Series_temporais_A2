@@ -23,6 +23,7 @@ Além da modelagem, o trabalho também visa apresentar análises de resíduos, d
 ## Membros do grupo
 
 - Ari Oliveira
+- André Costa
 - Breno Marques Azevedo
 - Daniel Jacob
 - Gustavo Ramalho
