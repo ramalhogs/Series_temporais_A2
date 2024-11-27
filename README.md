@@ -28,6 +28,3 @@ Além da modelagem, o trabalho também visa apresentar análises de resíduos, d
 - Daniel Jacob
 - Gustavo Ramalho
 - Vinicius Hedler
-
-## Link do relatório:
-[Relatório](https://pt.overleaf.com/8332171181vyzycbmfkwpz#258c2e)
